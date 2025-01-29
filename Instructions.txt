@@ -1,0 +1,8 @@
+INSTRUCTIONS FOR STARTING THE GAME
+
+1)Download all the attachments and save them in a 
+folder named 'Game project B' in C Drive only.
+
+**Make sure that the case of letters is same as 
+instructed**
+
